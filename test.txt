@@ -1,0 +1,6 @@
+--[[
+	cheirmens poo obfuscator || Obfuscated_Script.lua
+	thanks for using my skript!)
+--]]
+
+CHERSOBF_rrrrRRrrr={"\112","\114","\105","\110","\116","\40","\34","\89","\79","\79","\79","\79","\79","\79","\79","\79","\79","\79","\34","\41","\10",}CHERSOBF_ppPPPpppP="";for _,CHERSOBF_OOooooooo in pairs(CHERSOBF_rrrrRRrrr)do CHERSOBF_ppPPPpppP=CHERSOBF_ppPPPpppP..CHERSOBF_OOooooooo;end;CHERSOBF_eEeEEEEee=function(CHERSOBF_aAaaAAAaA)loadstring(CHERSOBF_aAaaAAAaA)()end;CHERSOBF_eEeEEEEee(CHERSOBF_ppPPPpppP)
