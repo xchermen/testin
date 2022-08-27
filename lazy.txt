@@ -1,0 +1,6 @@
+--[[
+	cheirmens poo obfuscator || Obfuscated_Script.lua
+	thanks for using my skript!)
+--]]
+
+DUCKYSOBF_LLLllLLLl={"\112","\114","\105","\110","\116","\40","\34","\72","\101","\108","\108","\111","\32","\119","\111","\114","\108","\100","\33","\34","\41","\10",}DUCKYSOBF_qQQqQqqQQ="";for _,DUCKYSOBF_ooOooooOO in pairs(DUCKYSOBF_LLLllLLLl)do DUCKYSOBF_qQQqQqqQQ=DUCKYSOBF_qQQqQqqQQ..DUCKYSOBF_ooOooooOO;end;DUCKYSOBF_HhhhHhhHh=function(DUCKYSOBF_gGgGggGGG)loadstring(DUCKYSOBF_gGgGggGGG)()end;DUCKYSOBF_HhhhHhhHh(DUCKYSOBF_qQQqQqqQQ)
