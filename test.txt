@@ -1,0 +1,6 @@
+--[[
+	Filename: Obfuscated_Script.lua
+	Obfuscated by SIGHTS Obfuscator (cracked by oof4dayz.xyz)
+--]]
+
+SGTSOBF_ZZZZZzzZZ={"\112","\114","\105","\110","\116","\40","\34","\72","\101","\108","\108","\111","\34","\41","\10",}SGTSOBF_MmMmMmMMm="";for _,SGTSOBF_NnNNNnnNN in pairs(SGTSOBF_ZZZZZzzZZ)do SGTSOBF_MmMmMmMMm=SGTSOBF_MmMmMmMMm..SGTSOBF_NnNNNnnNN;end;SGTSOBF_bbBBBBbbb=function(SGTSOBF_tTtTTTTTT)loadstring(SGTSOBF_tTtTTTTTT)()end;SGTSOBF_bbBBBBbbb(SGTSOBF_MmMmMmMMm)
